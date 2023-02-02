@@ -1,0 +1,19 @@
+{
+"instructions_readme": "1) Open Chrome, 2) go to chrome://tracing, 3) click Load, 4) navigate to this file.",
+
+"traceEvents":[
+{ "pid": "Unity", "ph":"M", "name": "process_name", "args": {"name": "Unity"} },
+{ "pid": "Unity", "ph":"M", "name": "process_sort_index", "args": {"sort_index": -100} },
+{ "pid": "Unity", "tid": 1, "ph":"M", "name": "thread_name", "args": {"name": ""} },
+{ "pid": "Unity", "tid": 1,"ts": 466758913544.2,"dur": 2152033.6, "ph":"X", "name": "Build player"},
+{ "pid": "Unity", "tid": 1,"ts": 466758958666.4,"dur": 813592.3, "ph":"X", "name": "Preprocess Player"},
+{}
+
+],
+"meta_datetime": "11/02/2022 02:05:56",
+"meta_command_line": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.7f1\\Editor\\Unity.exe\" -projectpath C:\\Users\\82106\\Desktop\\AR1C1\\AR1C2 -useHub -hubIPC -cloudEnvironment production -licensingIpc LicenseClient-o-erc7VTcLsT0KLyOHC07 -hubSessionId 0a323250-55ca-11ed-b8b6-e9b6d8aa13e7 -accessToken v1k9-VhQ-Cp57K8SuXYBN3szMfSG6ZivBWhzt9OFmpI00df",
+"meta_command_line_args": "C:\\Program Files\\Unity\\Hub\\Editor\\2021.3.7f1\\Editor\\Unity.exe -projectpath C:\\Users\\82106\\Desktop\\AR1C1\\AR1C2 -useHub -hubIPC -cloudEnvironment production -licensingIpc LicenseClient-o-erc7VTcLsT0KLyOHC07 -hubSessionId 0a323250-55ca-11ed-b8b6-e9b6d8aa13e7 -accessToken v1k9-VhQ-Cp57K8SuXYBN3szMfSG6ZivBWhzt9OFmpI00df",
+"meta_user_name": "82106",
+"meta_os_version": "Microsoft Windows NT 10.0.22000.0",
+"meta_cpu_count": "4"
+}

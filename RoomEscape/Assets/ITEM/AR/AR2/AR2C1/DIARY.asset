@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a8f69cd9c2fb36468bf0292db4aa9e8, type: 3}
+  m_Name: DIARY
+  m_EditorClassIdentifier: 
+  itemName: DIARY
+  itemImage: {fileID: 21300000, guid: 0c0bde1f4e47bf34ba6c902564eda9eb, type: 3}
